@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Navy background -->
+  <rect width="512" height="512" rx="110" fill="#0d2340"/>
+  <!-- Teal accent bar -->
+  <rect x="56" y="320" width="400" height="52" rx="14" fill="#00b5c8"/>
+  <!-- Car body lower -->
+  <rect x="92" y="238" width="328" height="88" rx="16" fill="white" opacity="0.95"/>
+  <!-- Car cabin (trapezoid) -->
+  <polygon points="156,238 200,158 312,158 356,238" fill="white" opacity="0.95"/>
+  <!-- Window -->
+  <polygon points="170,234 208,168 304,168 342,234" fill="#0d2340" opacity="0.5"/>
+  <!-- Window center divider -->
+  <rect x="250" y="168" width="8" height="66" rx="3" fill="#0d2340" opacity="0.35"/>
+  <!-- Left wheel -->
+  <circle cx="176" cy="326" r="48" fill="#0d2340"/>
+  <circle cx="176" cy="326" r="30" fill="#e8edf2"/>
+  <circle cx="176" cy="326" r="13" fill="#0d2340"/>
+  <!-- Right wheel -->
+  <circle cx="336" cy="326" r="48" fill="#0d2340"/>
+  <circle cx="336" cy="326" r="30" fill="#e8edf2"/>
+  <circle cx="336" cy="326" r="13" fill="#0d2340"/>
+  <!-- SBA text -->
+  <text x="256" y="440" font-family="Georgia, serif" font-size="58" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="6">SBA</text>
+</svg>
